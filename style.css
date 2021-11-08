@@ -40,7 +40,22 @@ body {
 
 }
 
-section {
+#section1 {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #888888 ;
+}
+
+#section2 {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff ;
+}
+
+#section3 {
+    position: relative;
     width: 100vw;
     height: 100vh;
     background-color: #888888 ;
@@ -52,7 +67,7 @@ section {
     bottom: 40px;
 
     width: 120px;
-    height: 80px;
+    height: 60px;
 
     background-color: #ab0066;
     color: #ffffff;
@@ -63,8 +78,8 @@ section {
     right: 40px;
     bottom: 40px;
 
-    width: 80px;
-    height: 50px;
+    width: 120px;
+    height: 60px;
 
     background-color: #008d07;
     color: #ffffff;
@@ -75,8 +90,8 @@ section {
     right: 40px;
     bottom: 40px;
 
-    width: 40px;
-    height: 20px;
+    width: 120px;
+    height: 60px;
 
     background-color: #00327c;
     color: #ffffff;
